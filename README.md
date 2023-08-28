@@ -10,7 +10,7 @@ Hingga saat ini, *bike sharing* mulai banyak digunakan pada perkotaan sebagai be
 
 ## **Goals**
 
-Berdasarkan permasalahan tersebut, penyedia *Bike Sharing* perlu memiliki *prediction 'tool'* untuk dapat **memprediksi jumlah permintaan penggunaan *bike sharing* pada waktu dan kondisi tertentu** seperti kondisi cuaca, hari libur, periode musim, hari libur, dan lainnya. Prediction 'tool' ini berpotensi membantu manajemen dalam mengambil keputusan yang tepat guna mengoptimalkan ketersediaan sepeda, strategi pemasaran, dan alokasi sumber daya.
+Berdasarkan permasalahan tersebut, penyedia *Bike Sharing* perlu memiliki *prediction 'tool'* untuk dapat **memprediksi jumlah permintaan penggunaan *bike sharing* pada waktu dan kondisi tertentu** seperti kondisi cuaca, hari libur, periode musim, dan lainnya. Prediction 'tool' ini berpotensi membantu manajemen dalam mengambil keputusan yang tepat guna mengoptimalkan ketersediaan sepeda, strategi pemasaran, dan alokasi sumber daya.
 
 Bagi penyedia, prediksi jumlah permintaan penggunaan *bike sharing* yang semakin akurat dapat meningkatkan potensi pendapatan perusahaan serta peningkatan kepuasan pengguna karena waktu tunggu yang minimal.
 
