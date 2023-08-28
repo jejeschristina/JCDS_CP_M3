@@ -1,5 +1,3 @@
-# JCDS_CP_M3
-
 ## **Context**
 
 *Bike Sharing* adalah generasi baru persewaan sepeda di mana seluruh proses mulai dari pendaftaran pengguna, persewaan, serta pengembalian telah dilakukan secara teknologi otomatisasi. Melalui sistem ini, pengguna dapat dengan mudah menyewa sepeda dari suatu lokasi dan mengembalikannya ke lokasi lain sesuai kebutuhan. Banyak kota metropolitan yang berupaya mengurangi kemacetan dan polusi dengan mengurangi jumlah mobil di jalan-jalan dalam kota dengan meningkatkan infrastruktur bersepeda dan meluncurkan program *Bike Sharing*. Menurut data yang di rilis pada situs [Statista.com](https://www.statista.com/chart/14542/bike-sharing-programs-worldwide/), hingga pertengahan tahun 2018, ada lebih dari 1600 program *Bike Sharing* yang beroperasi di seluruh dunia dan menyediakan lebih dari 18 juta sepeda untuk keperluan umum.
